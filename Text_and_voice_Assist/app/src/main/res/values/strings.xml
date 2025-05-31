@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Voice Assistant</string>
+    <string name="app_name">Text and Voice Assist</string>
     
     <!-- Common Strings -->
     <string name="back">Back</string>
